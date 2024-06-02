@@ -1,4 +1,4 @@
-local input = get(input)
+local input = get("input")
 
 input.on_input(function(content)
     print(content)
