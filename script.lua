@@ -1,5 +1,5 @@
 -- local input = get("input")
-local h1 = get("h1")
+local h1 = get("test")
 h1.setcontent("sus");
 
 -- input.on_input(function(content)
